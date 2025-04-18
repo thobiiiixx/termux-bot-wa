@@ -1,4 +1,4 @@
-const lolcatjs = require('lolcatjs')
+const lolcatjs = require('lolcatj.s')
 const figlet = require('figlet')
 let { spawn } = require('child_process')
 let path = require('path')
